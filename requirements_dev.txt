@@ -1,6 +1,6 @@
 Flask==0.11.1
 configparser==3.5.0
-codecov==2.0.5
+codecov==2.0.16
 coverage==4.3.4
 enum34==1.1.6
 flake8==3.2.1
